@@ -1,0 +1,10 @@
+[theme]
+# Tema oscuro cybersecurity
+primaryColor = "#00ff88"
+backgroundColor = "#080c14"
+secondaryBackgroundColor = "#111827"
+textColor = "#e0e0e0"
+font = "monospace"
+
+[server]
+maxUploadSize = 10
